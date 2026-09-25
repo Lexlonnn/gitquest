@@ -3,14 +3,14 @@
 _This file is generated automatically by GitHub Actions from each participant's `QUEST_LOG.md` in their own fork. Do not edit it by hand — it will be overwritten on the next refresh._
 
 **Total participants:** 52  
-**Combined XP across everyone:** 2055
+**Combined XP across everyone:** 2295
 
-## team1  (team total: 90 XP)
+## team1  (team total: 120 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
+| Habeeba Mol M A | [@habeebamolma](https://github.com/habeebamolma) | 75 | Q1, Q2, Q3, Q4, Q5 | ✅ |
 | Faseena Sherin C | [@faseenasherin](https://github.com/faseenasherin) | 45 | Q1, Q2, Q3, Q4 | ✅ |
-| Habeeba Mol M A | [@habeebamolma](https://github.com/habeebamolma) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 
 ## team10  (team total: 90 XP)
 
@@ -47,12 +47,12 @@ _This file is generated automatically by GitHub Actions from each participant's 
 | Hamna Fathima A | [@hamnaaa02-afk](https://github.com/hamnaaa02-afk) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 | Aiswarya Lakshmi Baburaj | [@aiswaryalakshmi-05](https://github.com/aiswaryalakshmi-05) | 30 | Q1, Q2, Q3 | ✅ |
 
-## team15  (team total: 90 XP)
+## team15  (team total: 180 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
-| Abheesh S | [@Abheeshhh](https://github.com/Abheeshhh) | 45 | Q1, Q2, Q3, Q4 | ✅ |
-| Akash CB | [@CBxJr](https://github.com/CBxJr) | 45 | Q1, Q2, Q3, Q4 | ✅ |
+| Abheesh S | [@Abheeshhh](https://github.com/Abheeshhh) | 90 | Q1, Q2, Q3, Q4, Q5, Q6 | ✅ |
+| Akash CB | [@CBxJr](https://github.com/CBxJr) | 90 | Q1, Q2, Q3, Q4, Q5, Q6 | ✅ |
 
 ## team16  (team total: 120 XP)
 
@@ -75,12 +75,12 @@ _This file is generated automatically by GitHub Actions from each participant's 
 | Ashil Mehbin | [@ashilmehbin](https://github.com/ashilmehbin) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 | Abhinand P A | [@abhinand-pa-01](https://github.com/abhinand-pa-01) | 0 | - | ⚠️ HTTP 404 |
 
-## team19  (team total: 105 XP)
+## team19  (team total: 120 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
+| Sreerag CV | [@Sreerag2005](https://github.com/Sreerag2005) | 60 | Q1, Q2, Q3, Q4, Q6 | ✅ |
 | Shinas | [@muhammedshinas939](https://github.com/muhammedshinas939) | 60 | Q1, Q2, Q3, Q4, Q6 | ✅ |
-| Sreerag CV | [@Sreerag2005](https://github.com/Sreerag2005) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 
 ## team2  (team total: 90 XP)
 
@@ -89,12 +89,12 @@ _This file is generated automatically by GitHub Actions from each participant's 
 | ABHISHEK KRISHNA A | [@AbhiKarate](https://github.com/AbhiKarate) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 | FATHIMA MARVA KT | [@marvakt](https://github.com/marvakt) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 
-## team20  (team total: 75 XP)
+## team20  (team total: 105 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
+| Adhwaith | [@Adhwaith222-ui](https://github.com/Adhwaith222-ui) | 60 | Q1, Q2, Q3, Q4, Q6 | ✅ |
 | Nandith | [@Nandith33](https://github.com/Nandith33) | 45 | Q1, Q2, Q3, Q4 | ✅ |
-| Adhwaith | [@Adhwaith222-ui](https://github.com/Adhwaith222-ui) | 30 | Q1, Q2, Q3 | ✅ |
 
 ## team21  (team total: 120 XP)
 
@@ -138,12 +138,12 @@ _This file is generated automatically by GitHub Actions from each participant's 
 | Abhimanyu S Nair | [@Abhimanyu-5](https://github.com/Abhimanyu-5) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 | Vishak R Chandran | [@vishakrc2005-viz17](https://github.com/vishakrc2005-viz17) | 30 | Q1, Q2, Q3 | ✅ |
 
-## team3  (team total: 75 XP)
+## team3  (team total: 90 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
 | AISHA E N | [@AishaEN](https://github.com/AishaEN) | 45 | Q1, Q2, Q3, Q4 | ✅ |
-| ADITHYA ABHILASH | [@adiiser](https://github.com/adiiser) | 30 | Q1, Q2, Q3 | ✅ |
+| ADITHYA ABHILASH | [@adiiser](https://github.com/adiiser) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 
 ## team4  (team total: 90 XP)
 
@@ -166,12 +166,12 @@ _This file is generated automatically by GitHub Actions from each participant's 
 | Sreelakshmi Varma | [@sreelakshmi-0529](https://github.com/sreelakshmi-0529) | 45 | Q1, Q2, Q3, Q4 | ✅ |
 | Alaka Nandha K S | [@alakanandha27](https://github.com/alakanandha27) | 15 | Q1, Q2 | ✅ |
 
-## team7  (team total: 60 XP)
+## team7  (team total: 120 XP)
 
 | Name | GitHub | XP | Levels Completed | Status |
 |------|--------|----|-------------------|--------|
+| Alan Joshy | [@alanjoshy700-code](https://github.com/alanjoshy700-code) | 75 | Q1, Q2, Q3, Q4, Q5 | ✅ |
 | Amal K.B | [@Amalkb1](https://github.com/Amalkb1) | 45 | Q1, Q2, Q3, Q4 | ✅ |
-| Alan Joshy | [@alanjoshy700-code](https://github.com/alanjoshy700-code) | 15 | Q1, Q2 | ✅ |
 
 ## team8  (team total: 75 XP)
 
