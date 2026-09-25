@@ -8,55 +8,55 @@
 #
 # Example:
 # octocat,team1,Ravi
-sanjay77365,team25,Sanjay V
-vishnudev0416,team25,Vishnu Dev
-abhijith6210,team24,abhijith.m
-nidhi800,team24,nidhi baiju
-Adhwaith222-ui,team20,Adhwaith
-Nandith33,team20,Nandith
-Navaneeth-2305,team21,Navaneeth V M
-Balu-Sethu,team21,Balu Sethu
+faseenasherin,team1,Faseena Sherin C
+habeebamolma,team1,Habeeba Mol M A
 AbhiKarate,team2,ABHISHEK KRISHNA A
 marvakt,team2,FATHIMA MARVA KT
-indrajaudayan,team23,Indra Udayan
-Snehasabu628,team23,Sneha Sabu
-sruthicv2004,team13,sruthi C V
-abhinavmg567-creator,team13,Abhinav MG
+AishaEN,team3,AISHA E N
+adiiser,team3,ADITHYA ABHILASH
+farhanajabeenei-bit,team4,Farhana Jabeen E I
+ddevykaa,team4,Devika
 aishanasrin,team5,Aisha Nasrin CR
 asiyabeevivn,team5,Asiya Beevi
 sreelakshmi-0529,team6,Sreelakshmi Varma
 alakanandha27,team6,Alaka Nandha K S
-srhni,team16,Rohini
-Aiswaryasunilkumar2005,team16,Aiswarya ps
-sidxhu,team8,Sidharth V Krishnan
-Anand-7447,team8,Anand Raj
-aiswaryalakshmi-05,team14,Aiswarya Lakshmi Baburaj
-hamnaaa02-afk,team14,Hamna Fathima A
 alanjoshy700-code,team7,Alan Joshy
 Amalkb1,team7,Amal K.B
-AishaEN,team3,AISHA E N
-adiiser,team3,ADITHYA ABHILASH
-Abhimanyu-5,team26,Abhimanyu S Nair
-vishakrc2005-viz17,team26,Vishak R Chandran
-Sreerag2005,team19,Sreerag CV
-muhammedshinas939,team19,Shinas
-farhanajabeenei-bit,team4,Farhana Jabeen E I
-ddevykaa,team4,Devika
-lakshmikp034,team12,Lakshmi K P
-minunandakumar0,team12,Minu Nandakumar
-Lordposiden,team10,Ashil Roy
-tom017777,team10,Jaydev j
-jeeshma123,team17,Jeeshma M S
-Samilig123,team17,Samili G
+sidxhu,team8,Sidharth V Krishnan
+Anand-7447,team8,Anand Raj
 Keerthna-unnikrishnan,team9,Keerthna unnikrishnan
 aardrasudhi,team9,Ardra sudhi
-abhinand-pa-01,team18,Abhinand P A
-ashilmehbin,team18,Ashil Mehbin
+Lordposiden,team10,Ashil Roy
+tom017777,team10,Jaydev j
 anjanaps015-sudo,team11,Anjana S
 abhinav-dev7,team11,Abhinav Lenin
-shahananazrin,team22,Shahana Nazrin
-saraswathybabu62,team22,Saraswathy babu
-faseenasherin,team1,Faseena Sherin C
-habeebamolma,team1,Habeeba Mol M A
+lakshmikp034,team12,Lakshmi K P
+minunandakumar0,team12,Minu Nandakumar
+sruthicv2004,team13,sruthi C V
+abhinavmg567-creator,team13,Abhinav MG
+aiswaryalakshmi-05,team14,Aiswarya Lakshmi Baburaj
+hamnaaa02-afk,team14,Hamna Fathima A
 Abheeshhh,team15,Abheesh S
 CBxJr,team15,Akash CB
+srhni,team16,Rohini
+Aiswaryasunilkumar2005,team16,Aiswarya ps
+jeeshma123,team17,Jeeshma M S
+Samilig123,team17,Samili G
+abhinand-pa-01,team18,Abhinand P A
+ashilmehbin,team18,Ashil Mehbin
+Sreerag2005,team19,Sreerag CV
+muhammedshinas939,team19,Shinas
+Adhwaith222-ui,team20,Adhwaith
+Nandith33,team20,Nandith
+Navaneeth-2305,team21,Navaneeth V M
+Balu-Sethu,team21,Balu Sethu
+shahananazrin,team22,Shahana Nazrin
+saraswathybabu62,team22,Saraswathy babu
+indrajaudayan,team23,Indra Udayan
+Snehasabu628,team23,Sneha Sabu
+abhijith6210,team24,abhijith.m
+nidhi800,team24,nidhi baiju
+sanjay77365,team25,Sanjay V
+vishnudev0416,team25,Vishnu Dev
+Abhimanyu-5,team26,Abhimanyu S Nair
+vishakrc2005-viz17,team26,Vishak R Chandran
