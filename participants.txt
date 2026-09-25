@@ -8,5 +8,5 @@
 #
 # Example:
 # octocat,team1,Ravi
-krishnanunni6707,team1,Krishnanunni
-mathewjosephta,team2,Mathew
+krishnanunni6707,team2,Krishnanunni
+mathewjosephta,team1,Mathew
